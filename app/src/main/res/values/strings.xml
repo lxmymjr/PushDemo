@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PushDemo</string>
+    <string name="regid">RegID</string>
+</resources>
